@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, eu sou o Kasai 👋.
 
-<!--
-**vitorkasai/vitorkasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Graduando o 3º ano de Ciência da Computação pela <a href="https://www.ufscar.br/">UFSCar</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+
+[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/Kasai96)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/Kasai96)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Kasai96)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/Kasai96)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Kasai96)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorkasai&show_icons=true&theme=radical)
+
+### Onde me encontrar
+
+- LinkedIn: [vitorkasai](https://www.linkedin.com/in/vitorkasai/)
+- Email: vitorkasai02@gmail.com
+- Instagram: [@vitorkasai](https://www.instagram.com/vitorkasai/)
