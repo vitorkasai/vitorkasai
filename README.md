@@ -6,15 +6,13 @@ Graduando o 3º ano de Ciência da Computação pela <a href="https://www.ufscar
 
 ### Linguagens
 
-[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/Kasai96)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/Kasai96)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Kasai96)
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/Kasai96)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Kasai96)
+[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/vitorkasai)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/vitorkasai)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/vitorkasai)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/vitorkasai)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/vitorkasai)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorkasai&show_icons=true&theme=radical)
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkasai&layout=compact&theme=radical)
-
 
 ### Onde me encontrar
 
