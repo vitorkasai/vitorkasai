@@ -2,7 +2,8 @@
 
 ### Sobre mim
 
-Graduando do 3º ano de Ciência da Computação pela <a href="https://www.ufscar.br/">UFSCar</a>.
+* Graduando do 3º ano de Ciência da Computação pela <a href="https://www.ufscar.br/">UFSCar</a>.
+* Vencedor do hackathon <a href="https://bradescohackcup.com.br/">Open Finance Bradesco 2023</a>.
 
 ### Linguagens
 
