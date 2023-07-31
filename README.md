@@ -15,7 +15,6 @@
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/vitorkasai)
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorkasai&show_icons=true&theme=radical)
 
 ### Onde me encontrar
 
