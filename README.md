@@ -1,11 +1,10 @@
-## Bem-vindo 👋.
+## Welcome 👋.
 
-### Sobre mim
+### About me 
 
-* Graduando do 3º ano de Ciência da Computação pela <a href="https://www.ufscar.br/">UFSCar</a>.
-* Vencedor do hackathon <a href="https://bradescohackcup.com.br/">Open Finance Bradesco 2023</a>.
+* Computer Science student at the Federal University of São Carlos (<a href="https://www.ufscar.br/">UFSCar</a>).
 
-### Linguagens
+### Programming
 
 [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/vitorkasai)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/vitorkasai)
@@ -16,7 +15,7 @@
 
 
 
-### Onde me encontrar
+### Find me 
 
 - LinkedIn: [vitorkasai](https://www.linkedin.com/in/vitorkasai/)
 - Email: vitorkasai02@gmail.com
